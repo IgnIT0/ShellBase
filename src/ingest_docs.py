@@ -6,7 +6,7 @@ from supabase import Client, create_client
 #CONFIGURAÇÕES
 
 SUPABASE_URL = "https://ftmoqhnzmzpanggntysa.supabase.co"
-SUPABASE_KEY = "sb_secret_oLS6hGFVsxWJRLhSZmM51g_3MjLO3e_"  
+SUPABASE_KEY = "sb_publishable_wNyiObnZX5jcWaQRf1aTWA_I9nPM74m"  
 OLLAMA_URL = "http://localhost:11434/api/embeddings"
 EMBED_MODEL = "nomic-embed-text"
 JSON_FILE_PATH = "powershell_docs.json"
