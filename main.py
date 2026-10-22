@@ -6,7 +6,7 @@ SUPABASE_KEY = "sb_publishable_wNyiObnZX5jcWaQRf1aTWA_I9nPM74m"
 
 def run_cli():
     print("==================================================")
-    print("           SHELLBASE - CORE ENGINE INITIALIZED    ")
+    print("                   SHELLBASE                      ")
     print("==================================================")
 
     engine = ShellBaseEngine(
